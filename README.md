@@ -1,6 +1,3 @@
-# haadirattansi
-Profile README
-
 # Hi, I'm Haadi
 
 Computer Engineering student at the University of Florida interested in embedded systems, Linux infrastructure, and hardware/software integration.
